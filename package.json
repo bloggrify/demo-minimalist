@@ -10,7 +10,7 @@
         "url": "https://github.com/bloggrify/demo-bento.git"
     },
     "scripts": {
-        "preinstall": "npx playwright install --with-deps",
+        "postinstall": "npx playwright install --with-deps",
         "build": "nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
