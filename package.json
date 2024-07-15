@@ -7,7 +7,7 @@
     "author": "Eventually Coding <contact@eventuallycoding.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bloggrify/demo-bento.git"
+        "url": "https://github.com/bloggrify/demo-minimalist.git"
     },
     "scripts": {
         "preinstall": "npx playwright install",

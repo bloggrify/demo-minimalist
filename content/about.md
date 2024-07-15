@@ -38,8 +38,8 @@ Minimalist is a theme for the blogging platform [Bloggrify](https://bloggrify.co
 To install this theme, you should clone this repository and install the dependencies.
 
 ```bash
-git clone git@github.com:bloggrify/demo-bento.git
-cd demo-bento
+git clone git@github.com:bloggrify/demo-minimalist.git
+cd demo-minimalist
 npm install
 ```
 
