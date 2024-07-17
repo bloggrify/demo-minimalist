@@ -16,7 +16,7 @@ export default defineAppConfig({
         'I\'m a professional web developer with a passion for writing about technology and the web.',
 
     pagination: {
-        per_page: 5,
+        per_page: 50,
     },
 
 
