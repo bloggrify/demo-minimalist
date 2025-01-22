@@ -1,5 +1,12 @@
 # Minimalist
 
+
+**https://bloggrify.com/introduction/installation
+
+**Please follow [the official documentation](https://bloggrify.com/introduction/installation) to get started with Bloggrify.**
+
+
+
 Minimalist is a basic template for [Bloggrify](https://github.com/bloggrify/bloggrify). 
 It provides a dark mode, a clean, accessible, responsive and SEO-efficient blog template.
 
@@ -15,21 +22,3 @@ Even if it's only a matter of downloading files and writing markdown, you'll nee
 
 To get started, you can read the official documentation [here](https://bloggrify.com/introduction/installation). You'll find all the information you need to install and use Bloggrify 
 
-However, **instead of cloning the "Mistral" template**, you should use the "Minimalist" template that you have downloaded.
-
-Then you can install the dependencies (from the root of the project)
-
-```bash
-# npm
-npm install
-```
-
-and run the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-
-
-Of course, you can remove all the existing blog posts from the **content** folder and start from scratch. Those are just examples.
