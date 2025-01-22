@@ -1,10 +1,9 @@
 # Minimalist
 
 
-**https://bloggrify.com/introduction/installation
+**This repository is not relevant anymore**
 
 **Please follow [the official documentation](https://bloggrify.com/introduction/installation) to get started with Bloggrify.**
-
 
 
 Minimalist is a basic template for [Bloggrify](https://github.com/bloggrify/bloggrify). 
